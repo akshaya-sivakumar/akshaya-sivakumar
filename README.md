@@ -2,13 +2,14 @@
  
 
 <p align='center'>
-Hi People,Thanks For Visiting My Repo ! My Name is Akshaya and I am Application Developer, currently living in Mannargudi,Tamil Nadu, India. I am currently working at Siqsess Technologies,Chennai. I love to build new and creative things. Interested in doing things which motivates me and do a meaningful work.
+Hi People,Thanks For Visiting My Repo ! My Name is Akshaya and I am Application Developer, currently living in Mannargudi,Tamil Nadu, India. I am currently working at Market Simplified India Pvt Ltd,Chennai. I love to build new and creative things. Interested in doing things which motivates me and do a meaningful work.
 </p>
 
 ## Tools & Technologies 
 <p align='center'>
   <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/></a>
   <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /></a>
+  <a href="https://go.dev/"><img alt="GoLang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /></a>
    <a href="https://azure.microsoft.com/en-us/services/devops/"><img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
   <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript%20-f0db4f.svg?&style=for-the-badge&logo=javascript&logoColor=black" /></a>
  <a href="https://reactjs.org"><img src ="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
